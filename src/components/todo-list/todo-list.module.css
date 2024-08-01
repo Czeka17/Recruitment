@@ -1,0 +1,15 @@
+.empty-list-p{
+    margin: 1em;
+    color: var(--border-color);
+}
+ul{
+    overflow: hidden;
+    list-style: none
+  }
+  
+  ul li{
+    background-color: var(--bg-color);
+    color:var(--text-color);
+    transition: 0.3s all;
+    border-bottom:1px solid var(--accent-color);
+  }

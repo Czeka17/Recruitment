@@ -1,0 +1,19 @@
+.toggle-theme-btn{
+    cursor: pointer;
+  }
+  .title{
+    text-align: left;
+    letter-spacing:10px;
+    color:white;
+    
+  }
+  .title-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 3em;
+  }
+  .title-container button{
+    background: none;
+    border: none;
+  }
